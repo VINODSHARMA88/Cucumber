@@ -1,0 +1,5 @@
+pageObjects\RoomPage.class
+pageObjects\PageObjectManager.class
+Auto\Room\App.class
+pageObjects\Login.class
+pageObjects\Dashboard.class
